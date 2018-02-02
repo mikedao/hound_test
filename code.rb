@@ -1,29 +1,12 @@
-
-
-
-
-
 class Thing
 
-              def initialize 
-                @something = nil
-              end
-
-        def method
-
-          
-          hello = 0
-        
-        
-        
-        
-        
-        
-        
-        
-        end
-
-      
+  def initialize 
+    @something = nil
   end
 
-  puts "hello mom"
+  def method
+    hello = 0
+  end      
+end
+
+puts "hello mom"
